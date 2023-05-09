@@ -1,0 +1,111 @@
+body {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+
+}
+
+.site-banner {
+  background-color: #FFDAB9;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: center;
+  font-family: "Impact", serif;
+  font-size: 50px;
+  color: black;
+
+}
+
+
+.info {
+  font-family: "Impact", serif;
+  text-align: center;
+  background-color: #FF6347;
+  margin-top: 0px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.section {
+  font-family: "Futura", serif;
+  font-size: 16px;
+  padding-bottom: 10px;
+  color: #708090;
+}
+
+.article {
+  max-width: 1200px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-family: "Futura", serif;
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-weight: normal;
+}
+
+.byline {
+  font-size: 16px;
+  height: 17px;
+  margin-bottom: 3px;
+  font-family: "Futura", serif;
+  color: #708090;
+}
+
+.publish-date {
+  font-size: 16px;
+  height: 12px;
+  margin-top: 5px;
+  color: #708090;
+  font-family: "futura", serif;
+
+}
+
+
+.story-body {
+  border-width: 1px;
+  border-color: lightgray;
+  border-top-style: solid;
+  font-family: "Georgia", serif;
+  font-size: 20px;
+  line-height: 32px;
+  max-width: 700px;
+}
+
+img {
+  width: 100%;
+  padding-top: 10px;
+}
+
+.photo-caption {
+  color: black;
+  font-size: 14px;
+  margin-top: 0px;
+  line-height: 18px;
+  font-family: "Futura";
+}
+
+.photo-credit {
+  color: #666666;
+  font-size: 12px;
+  line-height: 5px;
+  font-family: "Futura";
+}
+
+h2 {
+  font-size: 24px;
+}
+ 
